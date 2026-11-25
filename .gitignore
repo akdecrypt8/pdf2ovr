@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test files
+test_*.pdf
+test_output*
+template.ovr
+template.map
+ovr_1000_annotations.pdf
+ovr_1000_stress*
+debug.py
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
