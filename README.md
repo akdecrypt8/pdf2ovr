@@ -1,6 +1,6 @@
 # pdf2ovr
 
-Generate ERDAS Imagine `.ovr` (annotation overlay) and `.map` (map composition) files from PDF content using the EHFA container format. 
+Generate ERDAS Imagine `.ovr` (annotation overlay) and `.map` (map composition) files from PDF content using the EHFA container format.
 
 ## Installation
 
