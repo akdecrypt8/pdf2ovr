@@ -22,8 +22,8 @@ python -m ovr_map_generator.ovr_map_from_pdf my_map.pdf template.ovr template.ma
 ```
 
 This produces:
-- `my_output.map.ovr` - Annotation overlay file
-- `my_output.map` - Map composition file (references the .ovr)
+- `my_output.map.ovr`  Annotation overlay file
+- `my_output.map`  Map composition file (references the .ovr)
 
 ### Python API
 
@@ -52,12 +52,12 @@ for e in filtered:
 
 ## Supported Elements
 
-- **Text2** - Text annotations with position, font size, and content
-- **Rectangle2** - Rectangular shapes
-- **Polyline2** - Lines and multi-vertex polylines
-- **Symbol2** - Symbols/markers (not extracted from PDF)
-- **Group_Eant** - Group containers (not extracted from PDF)
-- **Ellipse2** - Elliptical shapes (not extracted from PDF)
+- **Text2**  Text annotations with position, font size, and content
+- **Rectangle2**  Rectangular shapes
+- **Polyline2**  Lines and multi-vertex polylines
+- **Symbol2**  Symbols/markers (not extracted from PDF)
+- **Group_Eant**  Group containers (not extracted from PDF)
+- **Ellipse2**  Elliptical shapes (not extracted from PDF)
 
 ## EHFA Format
 
