@@ -1,4 +1,4 @@
-# Phase 3 test report — v0.4.0
+# Phase 3 test report v0.4.0
 
 ## Test strategy
 
