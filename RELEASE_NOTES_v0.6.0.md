@@ -1,4 +1,4 @@
-# PDF2OVR v0.6.0 — pre-release draft
+# PDF2OVR v0.6.0 pre-release draft
 
 **Release status:** Pre-release candidate for manual review. This draft has not
 been published to PyPI, tagged in Git, or created as a GitHub Release.
