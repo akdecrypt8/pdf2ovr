@@ -5,7 +5,7 @@ not included because the source phase logs did not record reliable release
 publication dates. Version headings identify project milestones; they do not
 imply that a corresponding PyPI release or Git tag exists.
 
-## 0.6.0 — pre-release candidate (not published)
+## 0.6.0 pre-release candidate (not published)
 
 ### Added
 
@@ -56,7 +56,7 @@ imply that a corresponding PyPI release or Git tag exists.
   suite uses compact synthetic fixtures; these exercise selected parser/writer
   paths but are not complete ERDAS-produced files.
 
-## 0.5.0 — PDF extraction fidelity milestone
+## 0.5.0 PDF extraction fidelity milestone
 
 - Added a page-aware extraction result model and JSON interchange manifest.
 - Added paint-order-aware text extraction with baselines, rotation, font/glyph,
@@ -73,7 +73,7 @@ imply that a corresponding PyPI release or Git tag exists.
 - Preserved the legacy `_join_segments` helper for compatibility during the
   extraction transition.
 
-## 0.4.0 — GeoPDF geospatial intelligence milestone
+## 0.4.0 GeoPDF geospatial intelligence milestone
 
 - Added page-level Adobe/ISO GeoPDF viewport inspection using `/VP`,
   `/Measure /GEO`, `/GPTS`, `/LPTS`, `/Bounds`, `/GCS` and projected `/PCSM`.
@@ -86,7 +86,7 @@ imply that a corresponding PyPI release or Git tag exists.
   CropBox, plus `georef`, `calibrate` and `transform` commands.
 - Does not write geospatial metadata to EANT or edit MAP compositions.
 
-## 0.3.0 — HFA/EANT structural foundation milestone
+## 0.3.0 HFA/EANT structural foundation milestone
 
 - Added a bounded HFA dictionary parser and typed payload decoder/encoder for
   the types exercised by the supplied reference OVR examples.
@@ -101,7 +101,7 @@ imply that a corresponding PyPI release or Git tag exists.
   annotation payload assumptions were inconsistent with the observed EANT
   parent/child structures.
 
-## 0.2.0 — safety and extraction baseline milestone
+## 0.2.0 safety and extraction baseline milestone
 
 - Added a read-only pointer-following EHFA parser and structural summaries.
 - Replaced heuristic entry scanning with root-pointer traversal and bounded
