@@ -1,4 +1,4 @@
-# Phase 2 validation report — pdf2ovr 0.3.0
+# Phase 2 validation report pdf2ovr 0.3.0
 
 Date: 2026-11-27
 
