@@ -1,4 +1,4 @@
-# Phase 4 test report — v0.5.0
+# Phase 4 test report v0.5.0
 
 ## Environment
 
