@@ -4,7 +4,7 @@
 
 > **Important limitation:** general PDF-to-OVR conversion is not enabled. The PDF extractor writes a JSON interchange package; it does not automatically convert extracted PDF objects into ERDAS annotations. The annotation writer can create a small set of records from compatible annotation templates already present in an OVR file. Generated or edited OVR files have not been independently validated in ERDAS IMAGINE.
 
-Version: `0.6.0` — pre-release candidate; not yet published to PyPI.
+Version: `0.6.0` pre-release candidate; not yet published to PyPI.
 
 ## Implemented capabilities and limitations
 
