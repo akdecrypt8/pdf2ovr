@@ -1,4 +1,4 @@
-# Phase 5 test report — v0.6.0
+# Phase 5 test report v0.6.0
 
 The regression suite was run with both supplied reference OVR files enabled:
 
