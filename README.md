@@ -1,6 +1,6 @@
-# PDF2OVR
+# pdf2ovr
 
-**PDF2OVR is an experimental Python toolkit for inspecting and editing selected ERDAS HFA/EANT annotation overlays, extracting PDF content, and inspecting GeoPDF georeferencing.**
+**pdf2ovr is an experimental Python toolkit for inspecting and editing selected ERDAS HFA/EANT annotation overlays, extracting PDF content, and inspecting GeoPDF georeferencing.**
 
 > **Important limitation:** general PDF-to-OVR conversion is not enabled. The PDF extractor writes a JSON interchange package; it does not automatically convert extracted PDF objects into ERDAS annotations. The annotation writer can create a small set of records from compatible annotation templates already present in an OVR file. Generated or edited OVR files have not been independently validated in ERDAS IMAGINE.
 
@@ -41,7 +41,7 @@ Image/Form XObject georeferencing, arbitrary legacy OGC projection-parameter con
 
 ## Installation
 
-PDF2OVR `0.6.0` is being prepared as a pre-release and has not been uploaded to PyPI. Install from a local checkout:
+pdf2ovr `0.6.0` is being prepared as a pre-release and has not been uploaded to PyPI. Install from a local checkout:
 
 ```bash
 python -m pip install .
